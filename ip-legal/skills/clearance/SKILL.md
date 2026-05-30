@@ -6,6 +6,10 @@ description: >
   asked whether a mark is available, or to run a knockout search, or when
   assessing likelihood-of-confusion factors before a full professional search.
   This skill never concludes a mark is clear.
+license: >
+  Nice Classification List information is derived from official World Intellectual
+  Property Organization (WIPO) sources, which are published under a Creative Commons
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/ license).
 argument-hint: "[describe the proposed mark, goods/services, and jurisdictions — or just the mark and I'll ask]"
 ---
 
